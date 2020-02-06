@@ -3,4 +3,4 @@
 
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://anevia114.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV-avc1_1000000=7-mp4a_6690_eng=2.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1581118487~acl=/hls-p/ingest_874_*/*~hmac=410ef784d856ede33405ea3e2430a7c0056bfea1a4f1c383349e628813532393/hls-p/ingest_874_720p/index.m3u8
