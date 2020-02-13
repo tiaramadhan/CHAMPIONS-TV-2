@@ -3,4 +3,4 @@
 
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://etslive-2-vidio-com.akamaized.net/exp=1581523700~acl=/hls-p/ingest_874_*/*~hmac=f61db11fdd4376f75b41e8a65d5f2fda20e7698e3bc237a4131f4becbd645e7d/hls-p/ingest_874_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1581708546~acl=/hls-p/ingest_874_*/*~hmac=9e118fa97a26f837d81cd13616ba9024510a786026017b9625fd15f953cf6f02/hls-p/ingest_874_720p/index.m3u8
