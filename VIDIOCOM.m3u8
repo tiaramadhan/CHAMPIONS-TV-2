@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://etslive-2-vidio-com.akamaized.net/exp=1583814799~acl=/hls-p/ingest_geo_6686_*/*~hmac=4878c980a4adeaa771cbe7b5b8f894cb51b1801f93e5be82655d9cd0b20df2c9/hls-p/ingest_geo_6686_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1583830089~acl=/hls-p/ingest_geo_6686_*/*~hmac=6a89426a500ae71248544dd908899e5c20194341bf5a8392104dfad425341ca4/hls-p/ingest_geo_6686_720p/index.m3u8
