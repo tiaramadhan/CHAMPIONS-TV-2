@@ -2,8 +2,7 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://etslive-2-vidio-com.akamaized.net/exp=1584046490~acl=/hls-p/ingest_geo_6686_*/*~hmac=9297ffcb1ec8429090294e5a3278f88a64ee6614779a667b711cfed0d767f064/hls-p/ingest_geo_6686_720p/index.m3u8
-
+https://etslive-2-vidio-com.akamaized.net/exp=1584073407~acl=/hls-b/ingest_geo_6686_*/*~hmac=77d7db3cf1448f6728f25e51667ac41a45957381cce7a95024fc752d483861f2/hls-b/ingest_geo_6686_720p/index.m3u8
 
 
 http://34.102.147.202/live/b/chunks.m3u8
